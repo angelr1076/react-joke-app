@@ -2,9 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-This was practice using React with Async/Await and pulling from an API with Axios.
+React app uses Async/Await and makes API calls with Axios.
 
-You can clone the app then move to the root folder in the terminal and run with 'npm run build'
+You can clone the app and run with 'npm start' in the root folder via the terminal.
 
 Enjoy!
 
