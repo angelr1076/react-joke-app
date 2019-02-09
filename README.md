@@ -8,6 +8,8 @@ You can clone the app then move to the root folder in the terminal and run with 
 
 Enjoy!
 
+## All API calls where made using the Official Joke API! https://davidtkatz.com
+
 ![Settings_Window](https://res.cloudinary.com/angelrodriguez/image/upload/v1549674000/screen1.png)
 
 ![Settings_Window](https://res.cloudinary.com/angelrodriguez/image/upload/v1549674001/screen2.png)
